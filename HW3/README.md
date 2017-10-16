@@ -1,9 +1,12 @@
 TEAM:
+
 Selina - 110936206 
 
 Yashu  - 111494035 
 
 Vinod  - 111491311 
+
+DESCRIPTION ABOUT THE FILE STRUCTURE:
 
 HW3.ipynb -> main notebook 
 
